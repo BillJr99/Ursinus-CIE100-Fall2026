@@ -7,6 +7,10 @@ title: "CIE100: Common Intellectual Experience - Thesis Workshop"
 info:
   coursenum: CIE100
   points: 10
+  purpose: "To draft a working thesis early enough that it can still change, and to internalize the four tests, arguable, specific, provable, consequential, that the course essays are graded on."
+  tilt:
+    task: "Submit a three-part response, roughly a 1-2 paragraph equivalent: your working thesis, a one-sentence self-assessment against each of the four criteria, and a deliberately weaker version with a diagnosis, closing with a 'they say / I say' sentence. Due through Canvas before the start of class."
+    criteria: "Graded for engagement and honest self-testing, not polish: full credit for an on-time, good-faith response whose thesis genuinely faces the four tests and whose weaker version is genuinely diagnosable rather than a strawman."
   submission: "Submit a word processed or PDF document through Canvas before the start of class."
   submission_types: written
   goals:

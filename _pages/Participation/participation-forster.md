@@ -7,6 +7,10 @@ title: "CIE100: Common Intellectual Experience - The Machine Stops Writing Promp
 info:
   coursenum: CIE100
   points: 10
+  purpose: "To bring the semester's Machine Question to its sharpest text: Forster's 1909 story anticipates our mediated lives, and this letter asks what Vashti has lost, and what the stopping of your own Machine would reveal about you."
+  tilt:
+    task: "Write a letter addressed to Forster, equivalent to a 1-2 paragraph response, quoting the text at least once in support of what you say and raising one respectful counterargument, supported by a quote, that he would have to answer. Submit through Canvas before the start of class."
+    criteria: "Graded for engagement and specificity, not polish: an on-time, good-faith letter that quotes the story, takes a position on its warning, and raises a genuine counterargument earns full credit."
   submission: "Submit a word processed or PDF document."
   goals:
     - To reflect upon the course texts in preparation for thoughtful discussion

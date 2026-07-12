@@ -7,6 +7,10 @@ title: "CIE100: Common Intellectual Experience - The Machine Question"
 info:
   coursenum: CIE100
   points: 0
+  purpose: "To trace one modern question, what do we owe ourselves and each other in the age of the machine, through every text of the semester, so that by Forster's The Machine Stops you discover you have been assembling the course's thesis all along."
+  tilt:
+    task: "Keep a Machine Question section in your commonplace book with one short entry per unit: a quotation from the text, one 'sighting in the wild' from your own week, and one sentence of your own AI-critique connecting them. There is nothing separate to submit."
+    criteria: "Carries no separate points: the strand is read with your commonplace book at the midterm check and the semester's end, within the Informal Writing category. What earns credit is the sustained habit, good-faith, text-grounded entries carried from unit to unit."
   submission: "No separate submission. Entries live in the Machine Question section of your commonplace book, which is reviewed at the midterm commonplace check and at the end of the semester."
   submission_types: written
   goals:

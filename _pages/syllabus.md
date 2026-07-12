@@ -166,6 +166,7 @@ letter_grades:
   range: "0-59.49" 
 
 schedule:
+schedule:
   - week: "0"
     date: "0"
     title: "Plato, Allegory of the Cave: Shadows, Screens, and the Ascent"
@@ -179,6 +180,10 @@ schedule:
         points: 10
         submission_types: "written"
     readings:
+      - rtitle: "Resource: the Four A's reading response protocol — a response genre you may use for any writing prompt this semester"
+        rlink: "https://www.billmongan.com/Ursinus-CIE100-Fall2026/Participation/FourAs"
+      - rtitle: "Resource: the Machine Question — the semester-long commonplace-book strand; start your notebook this week and carry one question across every text we read"
+        rlink: "https://www.billmongan.com/Ursinus-CIE100-Fall2026/Participation/MachineQuestion"
       - rtitle: "First Class Meeting: all CIE sections meet Friday, August 21 (community building and course introduction; location and time to be announced); the Ice Breaker Reflection and the Allegory of the Cave writing prompt are handed out there (the Allegory prompt is also distributed with the pre-semester reading assignment)"
         rlink: false
       - rtitle: "Pre-semester reading: Plato, Allegory of the Cave (CIE Reader)"
@@ -213,6 +218,10 @@ schedule:
     date: "1"
     title: "Essay 1 Workshop: Brainstorming, Sample Essays, and Thesis Construction"
     deliverables:
+      - dtitle: "Participation: Thesis Workshop Due (completed in class today; drafts the thesis you will submit Tuesday)"
+        dlink: "Participation/ThesisWorkshop"
+        points: 10
+        submission_types: "written"
       - dtitle: "Writing: Essay 1 Handed Out"
         dlink: "Assignments/Essay1"
         points: 100
@@ -229,10 +238,6 @@ schedule:
     deliverables:
       - dtitle: "Writing: Essay 1 Thesis Statement, Quote List, and Rough Outline Due"
         dlink: "Assignments/Essay1"
-        points: 100
-        submission_types: "written"
-      - dtitle: "Participation: Thesis Workshop Due (bring your working thesis to class)"
-        dlink: "Participation/ThesisWorkshop"
         points: 10
         submission_types: "written"
       - dtitle: "Participation: Sappho Writing Prompt Handed Out"
@@ -246,6 +251,10 @@ schedule:
     date: "1"
     title: "Sappho: Fragments, Longing, and the Survival of Texts"
     deliverables:
+      - dtitle: "Participation: Evidence Workshop Due (MEAL paragraphs and the quote sandwich)"
+        dlink: "Participation/EvidenceWorkshop"
+        points: 10
+        submission_types: "written"
       - dtitle: "Participation: Sappho Writing Prompt Due"
         dlink: "Participation/Sappho"
         points: 10
@@ -259,11 +268,7 @@ schedule:
     deliverables:
       - dtitle: "Writing: Essay 1 First Draft Due"
         dlink: "Assignments/Essay1"
-        points: 100
-        submission_types: "written"
-      - dtitle: "Participation: Evidence Workshop Due (MEAL paragraphs and the quote sandwich)"
-        dlink: "Participation/EvidenceWorkshop"
-        points: 10
+        points: 30
         submission_types: "written"
       - dtitle: "Participation: Islamic Mystic Poetry Writing Prompt Handed Out"
         dlink: "Participation/IslamicMysticPoetry"
@@ -312,7 +317,7 @@ schedule:
     deliverables:
       - dtitle: "Writing: Essay 1 Final Draft Due"
         dlink: "Assignments/Essay1"
-        points: 100
+        points: 60
         submission_types: "written"
       - dtitle: "Participation: Euthyphro Writing Prompt Due"
         dlink: "Participation/Euthyphro"
@@ -358,7 +363,7 @@ schedule:
     deliverables:
       - dtitle: "Writing: Essay 2 Thesis Statement, Quote List, and Rough Outline Due"
         dlink: "Assignments/Essay2"
-        points: 100
+        points: 10
         submission_types: "written"
     readings:
       - rtitle: "Continue discussing Between the World and Me, Part I"
@@ -366,6 +371,11 @@ schedule:
   - week: "8"
     date: "0"
     title: "Coates, Between the World and Me, Part II: The Mecca"
+    deliverables:
+      - dtitle: "Participation: Counterargument and Concession Workshop Due"
+        dlink: "Participation/Counterargument"
+        points: 10
+        submission_types: "written"
     readings:
       - rtitle: "Coates, Between the World and Me, pp. 73-132 (Part II)"
         rlink: false
@@ -375,11 +385,7 @@ schedule:
     deliverables:
       - dtitle: "Writing: Essay 2 First Draft Due"
         dlink: "Assignments/Essay2"
-        points: 100
-        submission_types: "written"
-      - dtitle: "Participation: Counterargument and Concession Workshop Due"
-        dlink: "Participation/Counterargument"
-        points: 10
+        points: 30
         submission_types: "written"
       - dtitle: "Participation: Genesis Writing Prompt Handed Out"
         dlink: "Participation/Genesis"
@@ -429,7 +435,7 @@ schedule:
     deliverables:
       - dtitle: "Writing: Essay 2 Final Draft Due"
         dlink: "Assignments/Essay2"
-        points: 100
+        points: 60
         submission_types: "written"
       - dtitle: "Participation: McPhee Writing Prompt Handed Out"
         dlink: "Participation/McPhee"
@@ -484,7 +490,7 @@ schedule:
     deliverables:
       - dtitle: "Writing: Essay 3 Thesis Statement, Quote List, and Rough Outline Due"
         dlink: "Assignments/Essay3"
-        points: 100
+        points: 10
         submission_types: "written"
       - dtitle: "Participation: McLuhan Writing Prompt Handed Out"
         dlink: "Participation/McLuhan"
@@ -512,7 +518,7 @@ schedule:
     deliverables:
       - dtitle: "Writing: Essay 3 First Draft Due"
         dlink: "Assignments/Essay3"
-        points: 100
+        points: 30
         submission_types: "written"
       - dtitle: "Participation: The Machine Stops Writing Prompt Handed Out"
         dlink: "Participation/Forster"
@@ -689,7 +695,7 @@ A quiet day is not a penalty so much as an unearned half-point, and the goal is 
 
 #### Informal Writing (10%)
 
-Informal writing includes the pre-class writing prompts posted on the schedule, in-class writing, and a semester-long commonplace book in which you collect quotations from our readings alongside your reactions, questions, and sightings of these texts "in the wild" (in memes, lyrics, advertisements, and the news). The commonplace book may be kept in a notebook or digitally and will be reviewed informally at midterm and at the end of the semester.
+Informal writing includes the pre-class writing prompts posted on the schedule, in-class writing, and a semester-long commonplace book in which you collect quotations from our readings alongside your reactions, questions, and sightings of these texts "in the wild" (in memes, lyrics, advertisements, and the news). The commonplace book is anchored by the **[Machine Question](Participation/MachineQuestion)** — a single question about technology, attention, and what it means to be human that you carry across every text we read, from Plato's cave to Forster's Machine; that page explains how to keep the book and what to collect. For any writing prompt, you may also respond using the **[Four A's protocol](Participation/FourAs)** — what *assumptions* does the author hold, what do you *agree* with, what do you want to *argue* with, and what do you *aspire* to — as an alternative genre when the standard prompt shape doesn't fit your thinking. The commonplace book may be kept in a notebook or digitally and will be reviewed informally at midterm and at the end of the semester.
 
 ### **Generative AI Policy**
 

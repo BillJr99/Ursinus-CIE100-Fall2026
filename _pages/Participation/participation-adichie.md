@@ -7,6 +7,10 @@ title: "CIE100: Common Intellectual Experience - Dear Ijeawele Writing Prompt"
 info:
   coursenum: CIE100
   points: 10
+  purpose: "To practice arguing with a living author on her own terms: weighing which of Adichie's fifteen suggestions persuade you and surfacing the assumptions about gender, culture, and childhood that each one rests upon."
+  tilt:
+    task: "Write a letter addressed to Adichie, equivalent to a 1-2 paragraph response, quoting the text at least once in support of what you say and raising one respectful counterargument, supported by a quote, that she would have to answer. Submit through Canvas before the start of class."
+    criteria: "Graded for engagement and specificity, not polish: an on-time, good-faith letter in your own voice that quotes the text and raises a genuine counterargument earns full credit."
   submission: "Submit a word processed or PDF document."
   goals:
     - To reflect upon the course texts in preparation for thoughtful discussion

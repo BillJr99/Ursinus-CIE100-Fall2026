@@ -7,6 +7,10 @@ title: "CIE100: Common Intellectual Experience - McPhee Writing Prompt"
 info:
   coursenum: CIE100
   points: 10
+  purpose: "To examine the wisdom and the hubris of engineering nature through McPhee's reporting, and through the local memory of the Perkiomen flooding, asking how we should live alongside systems built to hold back what we fear."
+  tilt:
+    task: "Write a 1-2 paragraph analytic response to the prompt questions, quoting the text at least once in support of your position and considering a counterargument supported by a quote of its own. Submit through Canvas before the start of class."
+    criteria: "Graded for engagement and specificity, not polish: a focused, on-time, good-faith response that takes a position on McPhee's stance, quotes the text, and entertains a counterpoint earns full credit."
   submission: "Submit a word processed or PDF document."
   goals:
     - To reflect upon the course texts in preparation for thoughtful discussion

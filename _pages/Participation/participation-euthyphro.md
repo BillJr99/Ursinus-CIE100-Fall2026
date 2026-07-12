@@ -7,6 +7,10 @@ title: "CIE100: Common Intellectual Experience - Euthyphro Writing Prompt"
 info:
   coursenum: CIE100
   points: 10
+  purpose: "To wrestle with the Euthyphro dilemma in its original form and then aim it at the authorities you actually trust, the law, platform rules, parents, even an AI, practicing philosophy as dialogue the way Plato wrote it."
+  tilt:
+    task: "Write a short dialogue between yourself and a figure from or behind the text, equivalent in substance to a 1-2 paragraph response, quoting the text at least once and giving the other voice a genuine counterargument supported by a quote of its own. Submit through Canvas before the start of class."
+    criteria: "Graded for engagement and specificity, not polish: an on-time, good-faith dialogue that restates the dilemma accurately, quotes the text, and lets the other voice genuinely push back earns full credit."
   submission: "Submit a word processed or PDF document."
   goals:
     - To reflect upon the course texts in preparation for thoughtful discussion

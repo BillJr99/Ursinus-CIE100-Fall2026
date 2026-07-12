@@ -7,6 +7,10 @@ title: "CIE100: Common Intellectual Experience - Evidence Workshop: Claim, Evide
 info:
   coursenum: CIE100
   points: 10
+  purpose: "To build the smallest complete unit of academic argument, the chain from claim to evidence to warrant, for two quotations you actually intend to use, practicing the reasoning step that first-year essay paragraphs most often skip."
+  tilt:
+    task: "Submit two complete claim-evidence-warrant chains for quotations you plan to use in the upcoming essay, plus one 'tempting but weak' quote with a sentence naming why you rejected it, roughly a 1-2 paragraph equivalent, through Canvas before the start of class."
+    criteria: "Graded for the quality of the reasoning, not the prose: full credit for an on-time, good-faith response with two real warrants and a precisely named rejection. Two complete chains beat four bare quotes."
   submission: "Submit a word processed or PDF document through Canvas before the start of class."
   submission_types: written
   goals:

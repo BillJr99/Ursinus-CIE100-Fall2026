@@ -7,6 +7,10 @@ title: "CIE100: Common Intellectual Experience - McLuhan Writing Prompt"
 info:
   coursenum: CIE100
   points: 10
+  purpose: "To test McLuhan's claim that the medium shapes us more deeply than its content, and to turn that lens on a medium you use daily, including the conversational AI this course keeps asking about."
+  tilt:
+    task: "Respond in marginalia form, equivalent to a 1-2 paragraph response: rich annotations on two quoted passages, one aphorism of your own, and one counterargument note against your own aphorism supported by a quote. Submit through Canvas before the start of class."
+    criteria: "Graded for engagement and specificity, not polish: an on-time, good-faith set of annotations that quotes McLuhan, states his claim fairly, and raises the strongest objection you can find earns full credit."
   submission: "Submit a word processed or PDF document."
   goals:
     - To reflect upon the course texts in preparation for thoughtful discussion

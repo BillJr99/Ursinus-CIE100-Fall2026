@@ -7,6 +7,10 @@ title: "CIE100: Common Intellectual Experience - Islamic Mystic Poetry Writing P
 info:
   coursenum: CIE100
   points: 10
+  purpose: "To practice reading devotional poetry that strains ordinary language, asking what the mystics' imagery of love and longing is for, and to weigh what is gained and lost when Rumi circulates online stripped of Islam."
+  tilt:
+    task: "Respond in marginalia form, equivalent to a 1-2 paragraph response: rich annotations on two quoted passages, one aphorism of your own, and one counterargument note against your own aphorism supported by a quote. Submit through Canvas before the start of class."
+    criteria: "Graded for engagement and specificity, not polish: an on-time, good-faith set of annotations that quotes the poems it works with and honestly complicates its own aphorism earns full credit."
   submission: "Submit a word processed or PDF document."
   goals:
     - To reflect upon the course texts in preparation for thoughtful discussion

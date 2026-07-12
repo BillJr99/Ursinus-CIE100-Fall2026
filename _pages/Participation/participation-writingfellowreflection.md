@@ -7,6 +7,10 @@ title: "CIE100: Common Intellectual Experience - Writing Fellow Reflection Writi
 info:
   coursenum: CIE100
   points: 10
+  purpose: "To close the semester's writing arc by taking stock of how your thesis-building, evidence, and revision practices changed across the three essays, and to turn your Writing Fellow conferences into advice you can carry into CIE 200."
+  tilt:
+    task: "Write a reflection answering both prompt questions: one specific before-and-after example of growth drawn from your own drafts, and an account of your Writing Fellow conferences and the revision practice you will carry forward. Submit through Canvas."
+    criteria: "Graded for honest, specific self-assessment rather than polish: an on-time, good-faith reflection that points to a concrete example from your own drafts, the text you quote here is your own writing, and engages both questions earns full credit."
   submission: "Submit a word processed or PDF document."
   goals:
     - To reflect upon the course texts in preparation for thoughtful discussion

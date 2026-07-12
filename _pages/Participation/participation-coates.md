@@ -7,6 +7,10 @@ title: "CIE100: Common Intellectual Experience - Between the World and Me Writin
 info:
   coursenum: CIE100
   points: 10
+  purpose: "To practice reading an argument that lives in the body rather than in abstraction: Coates insists racism is visited upon bodies, and this response asks how that embodiment changes the way we talk about justice."
+  tilt:
+    task: "Write a 1-2 paragraph analytic response to the prompt question, quoting a passage where the body carries the argument and considering a counterargument supported by a quote of its own. Submit through Canvas before the start of class."
+    criteria: "Graded for engagement and specificity, not polish: a focused, on-time, good-faith response that takes a position, quotes the text, and acknowledges a counterpoint earns full credit."
   submission: "Submit a word processed or PDF document."
   goals:
     - To reflect upon the course texts in preparation for thoughtful discussion

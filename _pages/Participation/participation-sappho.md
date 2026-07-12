@@ -7,6 +7,10 @@ title: "CIE100: Common Intellectual Experience - Sappho Writing Prompt"
 info:
   coursenum: CIE100
   points: 10
+  purpose: "To practice reading fragmentary evidence: Sappho survives in scraps quoted by others and recovered from torn papyrus, and this letter asks how incompleteness shapes interpretation, and who controls what survives, then and in a viral clip now."
+  tilt:
+    task: "Write a letter addressed to Sappho, equivalent to a 1-2 paragraph response, quoting the fragments at least once in support of what you say and raising one respectful counterargument, supported by a quote, that she would have to answer. Submit through Canvas before the start of class."
+    criteria: "Graded for engagement and specificity, not polish: an on-time, good-faith letter that works with the fragments themselves and raises a genuine counterargument earns full credit."
   submission: "Submit a word processed or PDF document."
   goals:
     - To reflect upon the course texts in preparation for thoughtful discussion

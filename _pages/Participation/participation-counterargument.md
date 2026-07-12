@@ -7,6 +7,10 @@ title: "CIE100: Common Intellectual Experience - Counterargument and Concession"
 info:
   coursenum: CIE100
   points: 10
+  purpose: "To steelman the strongest objection to your own working thesis and answer it honestly, building the naysayer move, acknowledge, concede, rebut, that the weekly prompts rehearse and the essays are graded on."
+  tilt:
+    task: "Submit a three-part response, roughly a 1-2 paragraph equivalent: the strongest objection to your working thesis quoted from a course text, a naysayer paragraph that acknowledges, concedes, and rebuts with a cited quote, and one closing sentence on how your thesis changed. Due through Canvas before the start of class."
+    criteria: "Graded for intellectual honesty rather than polish: full credit for an on-time, good-faith response that quotes both required passages, concedes something real rather than something trivial, and lets the thesis be genuinely marked by the objection."
   submission: "Submit a word processed or PDF document through Canvas before the start of class."
   submission_types: written
   goals:

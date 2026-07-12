@@ -7,6 +7,10 @@ title: "CIE100: Common Intellectual Experience - Darwin Writing Prompt"
 info:
   coursenum: CIE100
   points: 10
+  purpose: "To read a scientific argument as rhetoric: tracing how Darwin builds a world-changing claim out of small differences and vast time, and what his careful, almost cautious tone reveals about the stakes he knew he faced."
+  tilt:
+    task: "Write a short dialogue between yourself and a figure from or behind the text, equivalent in substance to a 1-2 paragraph response, quoting the text at least once and giving the other voice a genuine counterargument supported by a quote of its own. Submit through Canvas before the start of class."
+    criteria: "Graded for engagement and specificity, not polish: an on-time, good-faith dialogue that quotes the text and gives the opposing voice a real argument rather than an easy target earns full credit."
   submission: "Submit a word processed or PDF document."
   goals:
     - To reflect upon the course texts in preparation for thoughtful discussion

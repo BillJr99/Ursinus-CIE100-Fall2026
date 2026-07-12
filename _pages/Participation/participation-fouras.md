@@ -7,6 +7,10 @@ title: "CIE100: Common Intellectual Experience - Four A's Reading Response"
 info:
   coursenum: CIE100
   points: 10
+  purpose: "To meet a text four ways, assumptions, agree, argue, aspire, before settling on a judgment, so that your reading works against your own values and intentions rather than merely confirming them."
+  tilt:
+    task: "Write one short paragraph (or 2-3 rich bullets) for each of the four A's, each anchored by at least one quoted passage with a page or line reference, roughly a 1-2 paragraph equivalent in total. Submit through Canvas before the start of class."
+    criteria: "Graded for honest engagement, not polish: full credit for an on-time, good-faith response that meets all four A's, quotes a specific passage for each, and lets the four readings genuinely differ."
   submission: "Submit a word processed or PDF document through Canvas before the start of class."
   submission_types: written
   goals:

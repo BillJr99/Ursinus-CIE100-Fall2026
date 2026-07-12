@@ -7,6 +7,10 @@ title: "CIE100: Common Intellectual Experience - Genesis Writing Prompt"
 info:
   coursenum: CIE100
   points: 10
+  purpose: "To read the two creation accounts side by side as careful comparativists, and to follow the power of naming from Adam and Babel to the forms, labels, and datasets that name us today."
+  tilt:
+    task: "Write a short dialogue between yourself and a figure from or behind the text, equivalent in substance to a 1-2 paragraph response, quoting the text at least once and giving the other voice a genuine counterargument supported by a quote of its own. Submit through Canvas before the start of class."
+    criteria: "Graded for engagement and specificity, not polish: an on-time, good-faith dialogue grounded in Alter's translation, with a quote and a real opposing voice, earns full credit."
   submission: "Submit a word processed or PDF document."
   goals:
     - To reflect upon the course texts in preparation for thoughtful discussion

@@ -7,6 +7,10 @@ title: "CIE100: Common Intellectual Experience - Draft Reflection: Four A's on Y
 info:
   coursenum: CIE100
   points: 10
+  purpose: "To reread your own first draft as a text worth studying, turning the momentum of your Writing Fellow conference into a concrete revision agenda while the conversation is still warm."
+  tilt:
+    task: "After your conference, answer the four A's about your own draft in roughly a 1-2 paragraph equivalent, quoting one line of your own draft and one course text you now want to bring in or reweigh. Submit through Canvas within a few days of the conference."
+    criteria: "Graded for honest self-assessment rather than polish: full credit for an on-time, good-faith reflection that genuinely argues with its own draft, aspires to something specific, and includes both required quotations."
   submission: "Submit a word processed or PDF document through Canvas within a few days of your Writing Fellow conference; the assignment for each essay cycle will give the exact deadline."
   submission_types: written
   goals:

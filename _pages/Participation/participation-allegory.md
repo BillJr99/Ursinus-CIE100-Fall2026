@@ -7,6 +7,10 @@ title: "CIE100: Common Intellectual Experience - Allegory of the Cave Writing Pr
 info:
   coursenum: CIE100
   points: 10
+  purpose: "To open the course's first question, what should matter to me, by working out what the cave's chains, shadows, and ascent claim about illusion and education, and by testing whether your own feeds count as shadows on the wall."
+  tilt:
+    task: "Write a 1-2 paragraph analytic response to the prompt questions, quoting the Allegory at least once in support of your position and considering a counterargument supported by a quote of its own. Submit through Canvas before the start of class."
+    criteria: "Graded for engagement and specificity, not polish: a focused, on-time, good-faith response that takes a position, grounds it in the text, and honestly entertains a counterpoint earns full credit."
   submission: "Submit a word processed or PDF document."
   goals:
     - To reflect upon the course texts in preparation for thoughtful discussion

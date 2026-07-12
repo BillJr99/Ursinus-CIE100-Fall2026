@@ -7,6 +7,10 @@ title: "CIE100: Common Intellectual Experience - Deloria Writing Prompt"
 info:
   coursenum: CIE100
   points: 10
+  purpose: "To slow down over Deloria's distinction between religions of time and religions of place, and to practice the annotation habits, observing, questioning, and connecting, that feed your commonplace book all semester."
+  tilt:
+    task: "Respond in marginalia form, equivalent to a 1-2 paragraph response: rich annotations on two quoted passages, one aphorism of your own, and one counterargument note against your own aphorism supported by a quote. Submit through Canvas before the start of class."
+    criteria: "Graded for engagement and specificity, not polish: an on-time, good-faith set of annotations that quotes the passages it works with, distills a real aphorism, and pushes back on itself earns full credit."
   submission: "Submit a word processed or PDF document."
   goals:
     - To reflect upon the course texts in preparation for thoughtful discussion
