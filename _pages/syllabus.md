@@ -11,6 +11,8 @@ info:
   course_title: "Common Intellectual Experience"
   credit_hours: "4 Semester Hours"
   course_homepage: "https://www.billmongan.com/Ursinus-CIE100-Fall2026/"
+  teamshelproom: "https://teams.microsoft.com/l/team/19%3Atufqqee3gK0DxN7cjDXA2wYPth1HPm4LFJJgRHXUr5U1%40thread.tacv2/conversations?groupId=ed63c058-332b-4bcd-acb7-478542e8a342&tenantId=921f1c03-8689-4e60-a722-f5ea581e00fe"
+  class_notebook: "https://ursinuscollege365-my.sharepoint.com/personal/wmongan_ursinus_edu/Documents/Class Notebooks/CIE100 Fall 2026"
   ical: files/CIE100.ics
   designation: "CIE"
   course_prerequisites: "None"
