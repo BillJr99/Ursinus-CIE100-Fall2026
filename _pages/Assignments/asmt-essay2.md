@@ -86,7 +86,7 @@ Choose **one** of the following options.  Whichever option you choose, your essa
 
 You will build this essay in three stages, and those stages together make up the 100 points.  The thesis statement, quote list, and rough outline are worth 10 points, the complete first draft is worth 30 points, and the revised final draft is worth 60 points.  You must meet **in person** with our Writing Fellow between the first and final drafts, and your final draft has to respond substantively to that conversation.  Cosmetic edits don't count as revision.  That meeting carries **10 of the 100 points, all or nothing**, so meeting without revising earns zero on that row, and so does revising without meeting.  Please name the change the conference produced in your revision memo.  Book your conference early, because the whole section shares one Writing Fellow.
 
-1.  **Thesis Statement, Quote List, and Rough Outline.**  A one to two sentence working thesis, a list of four to six quotations (with page numbers) drawn from at least two texts, and a paragraph-level outline.
+1.  **Thesis Statement, Quote List, and Rough Outline.**  A one to two sentence working thesis, a list of four to six quotations (with page numbers) drawn from at least two texts, and a paragraph-level outline.  The [Quote-and-Point Sheet]({{ site.baseurl }}/Participation/QuoteAndPoint) is a place to start the quote list.
 2.  **First Draft.**  A complete draft of the full 1200 to 1500 words, and not a partial sketch.
 3.  **Final Draft.**  The revised essay, accompanied by a brief (one paragraph) revision memo describing what you changed and why.
 
