@@ -18,7 +18,7 @@ tags:
 
 ---
 
-Please read the questions below and answer them in a short dialogue between yourself and a figure from, or behind, the text.  Aim for the substance of a 1-2 paragraph response, and expect the script formatting to run a bit longer on the page.  Quote the text at least once inside the exchange, and let the other voice raise a real counterargument with a quote behind it.  Submit your dialogue through Canvas before the start of class.
+Please read the questions below and answer them in a short dialogue between yourself and a figure from, or behind, the text.  Aim for the substance of a 1-2 paragraph response, and expect the script formatting to run a bit longer on the page.  Quote the text at least once inside the exchange, and let the other voice raise a real counterargument with a quote behind it.  Submit your dialogue through Canvas by the due date on the syllabus.
 
 I'm asking for a dialogue here, but you may substitute any of the other four genres (analytic, letter, dialogue, marginalia+aphorism, or the [Four A's]({{ site.baseurl }}/Participation/FourAs)) as long as the quote and the counterargument are both present.
 

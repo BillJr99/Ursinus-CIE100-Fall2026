@@ -7,7 +7,7 @@ title: "CIE100: Common Intellectual Experience - Thesis Workshop"
 info:
   coursenum: CIE100
   points: 10
-  submission: "Please submit a word processed or PDF document through Canvas before the start of class."
+  submission: "Please submit a word processed or PDF document through Canvas by the due date on the syllabus."
   submission_types: written
   goals:
     - To draft a working thesis early enough that it can still change
@@ -26,7 +26,7 @@ Before each essay, this short workshop asks you to draft a **working thesis**.  
 
 ## Task
 
-Write your response in three parts (roughly a 1-2 paragraph equivalent in total) and submit it through Canvas before the start of class:
+Write your response in three parts (roughly a 1-2 paragraph equivalent in total) and submit it through Canvas by the due date on the syllabus:
 
 1.  **The working thesis.**  One or two sentences stating the argument you currently intend the upcoming essay to make.
 

@@ -7,7 +7,7 @@ title: "CIE100: Common Intellectual Experience - Four A's Reading Response"
 info:
   coursenum: CIE100
   points: 10
-  submission: "Please submit a word processed or PDF document through Canvas before the start of class."
+  submission: "Please submit a word processed or PDF document through Canvas by the due date on the syllabus."
   submission_types: written
   goals:
     - To meet a text four different ways before judging it
@@ -35,7 +35,7 @@ As you read, and this works best during pass two of the [three-pass strategy]({{
 
 ## Task: The Written Response
 
-For this individual written adaptation of the protocol, please write **one short paragraph (or 2-3 rich bullets) for each of the four A's**, and anchor each one with **at least one quoted passage** from the text, with a page or line reference.  The whole response should come to roughly the equivalent of 1-2 paragraphs of the usual weekly response.  It's a compact form, and the discipline is all in choosing the passages.  Please submit your response through Canvas before the start of class.
+For this individual written adaptation of the protocol, please write **one short paragraph (or 2-3 rich bullets) for each of the four A's**, and anchor each one with **at least one quoted passage** from the text, with a page or line reference.  The whole response should come to roughly the equivalent of 1-2 paragraphs of the usual weekly response.  It's a compact form, and the discipline is all in choosing the passages.  Please submit your response through Canvas by the due date on the syllabus.
 
 ## Criteria
 

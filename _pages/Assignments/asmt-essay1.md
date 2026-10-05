@@ -11,7 +11,7 @@ info:
   tilt:
     task: "Write a 1200-1500 word MLA essay that advances a contestable thesis on one of the prompts, grounded in close reading of Plato, Adichie, and/or Merz, and built through the draft-and-revision process."
     criteria: "I assess your thesis, how you develop the argument, how you use and synthesize textual evidence, your organization, and your citations.  The revision itself carries real weight; the rubric below has the full breakdown."
-  submission: "Submit a word processed or PDF document through Canvas before the start of class on each due date."
+  submission: "Submit a word processed or PDF document through Canvas by the due date on the syllabus."
   goals:
     - To formulate a clear, arguable thesis statement
     - To support a thesis with carefully chosen quotes from primary sources

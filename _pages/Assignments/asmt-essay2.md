@@ -11,7 +11,7 @@ info:
   tilt:
     task: "Write a 1200-1500 word MLA essay advancing an arguable thesis that engages at least two of Sappho, the Islamic mystic poets, Euthyphro, and Coates, built through the draft-and-revision process."
     criteria: "I assess your thesis, how you develop the argument, how you synthesize at least two texts, your organization, and your citations.  The revision itself carries real weight; the rubric below has the full breakdown."
-  submission: "Please submit a word processed or PDF document through Canvas before the start of class on each due date."
+  submission: "Please submit a word processed or PDF document through Canvas by the due date on the syllabus."
   goals:
     - To formulate a clear, arguable thesis statement about questions of justice, obligation, and community
     - To support a thesis with carefully chosen quotes from primary sources

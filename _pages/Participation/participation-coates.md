@@ -18,7 +18,7 @@ tags:
 
 ---
 
-Please read the questions below and answer them in a 1-2 paragraph analytic response.  State what you think, support it with at least one quote from the text, and then take up a counterargument or an alternative viewpoint and discuss it briefly.  Support that side with a quote as well, either one that illustrates the alternative or one that pushes back against it.  Submit your response through Canvas before the start of class.
+Please read the questions below and answer them in a 1-2 paragraph analytic response.  State what you think, support it with at least one quote from the text, and then take up a counterargument or an alternative viewpoint and discuss it briefly.  Support that side with a quote as well, either one that illustrates the alternative or one that pushes back against it.  Submit your response through Canvas by the due date on the syllabus.
 
 The analytic response is the default for this reading.  If another of the five genres fits better (analytic, letter, dialogue, marginalia+aphorism, or the [Four A's]({{ site.baseurl }}/Participation/FourAs)), use it, as long as you still include a quote and a counterargument.
 
