@@ -7,7 +7,7 @@ title: "CIE100: Common Intellectual Experience - Evidence Workshop: Claim, Evide
 info:
   coursenum: CIE100
   points: 10
-  submission: "Please submit a word processed or PDF document through Canvas before the start of class."
+  submission: "Please submit a word processed or PDF document through Canvas by the due date on the syllabus."
   submission_types: written
   goals:
     - To select quotations that support arguments rather than decorate them
@@ -34,7 +34,7 @@ Select **two quotations** you actually intend to use in the upcoming essay.  For
 
 Then add one **"tempting but weak" quote**, meaning a passage you considered using and rejected, with one sentence on why it fails.  Maybe it's decorative (sounds good, proves nothing), or out of context (means something else where it actually lives), or maybe it just restates your claim instead of supporting it.
 
-The whole response comes to roughly a 1-2 paragraph equivalent.  Please submit it through Canvas before the start of class.
+The whole response comes to roughly a 1-2 paragraph equivalent.  Please submit it through Canvas by the due date on the syllabus.
 
 ## Criteria
 

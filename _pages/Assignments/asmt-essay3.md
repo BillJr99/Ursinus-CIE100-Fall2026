@@ -11,7 +11,7 @@ info:
   tilt:
     task: "Write a 1500-1800 word MLA essay advancing an arguable thesis that engages at least two texts from the second half of the semester, built through the draft-and-revision process."
     criteria: "I assess your thesis, how you develop the argument, how you synthesize across texts, your organization, and your citations.  The revision itself carries real weight; the rubric below has the full breakdown."
-  submission: "Please submit a word processed or PDF document through Canvas before the start of class on each due date, as listed on the course schedule."
+  submission: "Please submit a word processed or PDF document through Canvas by the due date on the syllabus."
   goals:
     - To formulate a clear, arguable thesis statement about humanity's place in nature and technology's place in human life
     - To support a thesis with carefully chosen quotes from primary sources

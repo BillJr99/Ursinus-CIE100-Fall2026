@@ -7,7 +7,7 @@ title: "CIE100: Common Intellectual Experience - Counterargument and Concession"
 info:
   coursenum: CIE100
   points: 10
-  submission: "Please submit a word processed or PDF document through Canvas before the start of class."
+  submission: "Please submit a word processed or PDF document through Canvas by the due date on the syllabus."
   submission_types: written
   goals:
     - To steelman the strongest objection to your own working thesis
@@ -26,7 +26,7 @@ Every weekly writing prompt in this course has asked you to consider a counterar
 
 ## Task
 
-Write your response in three parts (roughly a 1-2 paragraph equivalent in total) and submit it through Canvas before the start of class:
+Write your response in three parts (roughly a 1-2 paragraph equivalent in total) and submit it through Canvas by the due date on the syllabus:
 
 1.  **The objection, steelmanned.**  State the strongest objection to your working thesis, drawn from a course text.  Find a passage that really does push back against your argument, and quote it with a page or line reference.  Please give the objector their best line.
 

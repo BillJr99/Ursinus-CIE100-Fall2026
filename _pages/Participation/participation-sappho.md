@@ -18,7 +18,7 @@ tags:
 
 ---
 
-Please read the questions below and answer them in a letter addressed to the author, about as long as a 1-2 paragraph response.  Write in your own voice, and quote the text at least once in support of what you say.  Choose that quote carefully, because you want the passage whose particular words matter, not just one that happens to mention your subject.  Submit your letter through Canvas before the start of class.
+Please read the questions below and answer them in a letter addressed to the author, about as long as a 1-2 paragraph response.  Write in your own voice, and quote the text at least once in support of what you say.  Choose that quote carefully, because you want the passage whose particular words matter, not just one that happens to mention your subject.  Submit your letter through Canvas by the due date on the syllabus.
 
 At this point in the semester I'm still asking only for a claim and a quote.  That changes with the Islamic Mystic Poetry response, when every prompt starts asking you to take on a counterargument too.  We will practice that move in class first, in the Counterargument and Concession workshop.
 

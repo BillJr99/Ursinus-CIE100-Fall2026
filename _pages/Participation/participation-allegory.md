@@ -18,7 +18,7 @@ tags:
 
 ---
 
-Please read the questions below and answer them in a 1-2 paragraph analytic response.  Say what you actually think about the topic, and back it up with at least one quote from the text.  Pick that quote carefully, because you want the passage whose particular words matter, not just one that happens to mention your subject.  Submit your response through Canvas before the start of class.
+Please read the questions below and answer them in a 1-2 paragraph analytic response.  Say what you actually think about the topic, and back it up with at least one quote from the text.  Pick that quote carefully, because you want the passage whose particular words matter, not just one that happens to mention your subject.  Submit your response through Canvas by the due date on the syllabus.
 
 For the first few weeks I'm asking only for a claim and a quote to support it.  Starting with the Islamic Mystic Poetry response, I'll also ask you to take on a counterargument, and we'll practice that move together in class first, in the Counterargument and Concession workshop.
 

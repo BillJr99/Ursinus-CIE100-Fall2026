@@ -18,7 +18,7 @@ tags:
 
 ---
 
-Please read the questions below and answer them in a 1-2 paragraph analytic response.  Say what you think, support it with at least one quote from the text, and then give a counterargument or alternative viewpoint a brief hearing, with a quote behind that too.  Submit your response through Canvas before the start of class.
+Please read the questions below and answer them in a 1-2 paragraph analytic response.  Say what you think, support it with at least one quote from the text, and then give a counterargument or alternative viewpoint a brief hearing, with a quote behind that too.  Submit your response through Canvas by the due date on the syllabus.
 
 Analytic is the default genre for McPhee, but you may swap in any of the other four (analytic, letter, dialogue, marginalia+aphorism, or the [Four A's]({{ site.baseurl }}/Participation/FourAs)) so long as the quote and counterargument requirements are still met.
 
