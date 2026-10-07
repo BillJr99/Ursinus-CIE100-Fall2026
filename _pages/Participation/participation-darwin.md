@@ -28,4 +28,4 @@ Darwin is the slowest reading on our syllabus.  Please look at the roadmap in [H
 
 1.  How does Darwin's argument for natural selection depend on small differences accumulating across vast stretches of time?  Identify a passage where Darwin's careful, almost cautious rhetoric shows that he understands the stakes of his claim, and discuss what he seems most concerned to persuade his readers of.
 
-2.  Where do you see descent with modification operating outside biology: in languages, in memes, in technologies, in traditions?  Choose one concrete example and trace its variation, selection, and inheritance.  Where does the evolutionary analogy illuminate, and where might it mislead, especially when people apply it to human societies?
+2.  Where do you see descent with modification (Darwin's phrase for evolution) operating outside biology: in languages, in memes, in technologies, in traditions?  Choose one concrete example and trace its variation, selection, and inheritance.  Where does the evolutionary analogy illuminate, and where might it mislead, especially when people apply it to human societies?
