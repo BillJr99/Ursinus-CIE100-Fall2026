@@ -92,7 +92,7 @@ You will build this essay in three stages, and those stages together make up the
 
 ### Starting the Quote List: A Quote-and-Point Sheet
 
-This sheet starts the quote list above.  Choose three quotations: two that could support a claim, and one that pushes back on it.  For each one, write the page, the exact words you will analyze, one sentence of analysis (why *these* words and not others), and one sentence naming the point it could support.  In the terms of a MEAL paragraph, those last two sentences are the Analysis and the Main idea, so every row here is the start of a paragraph.
+This sheet starts the quote list above.  Choose three quotations: two that could support a claim, and one that pushes back on it.  For each one, write the page, the exact words you will analyze, one sentence of analysis (why *these* words and not others), and one sentence naming the point it could support.  In the terms of a MEAL paragraph (Main idea, Evidence, Analysis, Link), those last two sentences are the Analysis and the Main idea, so every row here is the start of a paragraph.
 
 Essay 2 rewards how you handle the passages that disagree with you, which is why the third quotation is not optional.  Then draft a provisional thesis.  It is supposed to be wrong; that is why it is provisional.  You may fill this in on paper, in a document, or by dictation.
 
