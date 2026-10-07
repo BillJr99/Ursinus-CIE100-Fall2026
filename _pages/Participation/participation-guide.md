@@ -62,7 +62,7 @@ When the routine isn't enough, either because a text is resisting you or because
 
 ## Ways to Contribute (UDL)
 
-Speaking first and often is one way to participate, and for some of you it's the natural one.  It isn't the only one, though, and I've built the daily credit to honor several:
+This section follows Universal Design for Learning (UDL), which asks a course to offer more than one way to engage and to show what you know.  Speaking first and often is one way to participate, and for some of you it's the natural one.  It isn't the only one, though, and I've built the daily credit to honor several:
 
 - **Speak:** offer an idea, a reading of a passage, or a question.
 - **Build:** respond to a classmate by name, extend their point, or press on it respectfully.
@@ -86,8 +86,6 @@ Your own account of your growth is part of this grade.  It's also the surest way
 
 ## See also
 
-- [How to Read Hard Texts in CIE]({{ site.baseurl }}/Participation/ReadingHardTexts): getting through the reading.
-- [Discussion Roles]({{ site.baseurl }}/Participation/DiscussionRoles): the four rotating roles and how to prepare for each.
 - [The Four A's Reading Response]({{ site.baseurl }}/Participation/FourAs): a protocol for meeting a text you resist.
 
 ---
