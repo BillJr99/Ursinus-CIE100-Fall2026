@@ -52,7 +52,7 @@ Please bring your annotation or your grown question to class.  It's how I know t
 
 ## Exercises to Prepare for Discussion
 
-When the routine isn't enough, either because a text is truly resisting you or because you want to sharpen a contribution before you make it, reach for one of these.  They are general, so you can use any of them on any reading on the syllabus.
+When the routine isn't enough, either because a text is resisting you or because you want to sharpen a contribution before you make it, reach for one of these.  They are general, so you can use any of them on any reading on the syllabus.
 
 - **The quarter-inch turn.**  Write your best observation about the text as a neutral sentence, then turn it into a question (so what? who would disagree?), then turn the question into a claim someone could argue with.  Bring whichever version is sharpest.  You'll use this move in every essay you write for me.
 - **Point to the text.**  Take any opinion you hold about the reading and find the one line that most supports it, and then, harder, the one line that most complicates it.  An opinion with a line under it is a contribution.  An opinion without one is just a mood.
