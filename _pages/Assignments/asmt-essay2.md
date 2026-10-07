@@ -120,7 +120,7 @@ LITMUS: Could this thesis have been written without reading the texts?  yes / no
 
 #### Citing the Second Text
 
-Essay 2 asks for at least two of Sappho, the Islamic mystic poets, *Euthyphro*, and Coates.  Cite *Euthyphro* by Stephanus number, Sappho by the poem number in the Barnard translation, and the mystic poems by title.  Coates is cited by page number in the edition the course uses.
+Essay 2 asks for at least two of Sappho, the Islamic mystic poets, *Euthyphro*, and Coates.  Cite *Euthyphro* by Stephanus number (the standard section numbers printed in the margins of most editions of Plato), Sappho by the poem number in the Barnard translation, and the mystic poems by title.  Coates is cited by page number in the edition the course uses.
 
 #### Two Questions to Ask of Every Row
 

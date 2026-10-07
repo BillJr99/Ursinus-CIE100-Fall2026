@@ -36,7 +36,7 @@ Write your response in three parts (roughly a 1-2 paragraph equivalent in total)
    - **Provable**: could you support it with quotable evidence from the texts, meaning actual passages you could put on the page?
    - **Consequential**: does it answer "so what?"  In other words, why would this argument matter to someone who is not being graded on it?
 
-3.  **The weaker version, on purpose.**  Rewrite your own thesis as a *worse* thesis, then diagnose in 2-3 sentences exactly why it is weaker.  Is it too broad?  Unfalsifiable?  Summary instead of argument?  Once you can see how a thesis fails in one you built yourself, you'll start catching it in your own drafts.
+3.  **The weaker version, on purpose.**  Rewrite your own thesis as a *worse* thesis, then diagnose in 2-3 sentences exactly why it is weaker.  Is it too broad?  Unfalsifiable, meaning no evidence could ever show it to be wrong?  Summary instead of argument?  Once you can see how a thesis fails in one you built yourself, you'll start catching it in your own drafts.
 
 Close with the **"they say / I say" move**.  Write one sentence naming the conversation your thesis enters, meaning what "they say" (a reading, a common view, a claim from one of our texts) that your thesis answers (Graff, G. and Birkenstein, C., *"They Say / I Say": The Moves That Matter in Academic Writing*, W. W. Norton).
 
