@@ -30,10 +30,9 @@ A seminar works when people have done the reading and when they show up with som
 
 ## How Participation Is Earned and Evaluated
 
-Your in-class participation grade is 30% of the course, and it has two halves.  The syllabus describes both in full; here is the short version.
+This page is worth **10 points**, and you earn them through one thing: the **end-of-semester participation self-assessment** described below, which you submit through Canvas.  That self-assessment is where you look back at the routine on this page and show me how your preparation and participation grew.
 
-- **Daily participation** is worth about half the points.  You earn half a point toward your final grade for each class meeting in which you contribute meaningfully.  I define "meaningfully" broadly on purpose: offering an idea or a question, building on a classmate, bringing in your pre-class writing, taking a discussion role, or contributing in whatever channel we are using that day.  Try not to leave too many of those on the table.
-- **Quality of engagement** is worth the other half.  I assess it holistically at midterm and again at the end of the term against four dimensions: preparation, contribution, listening and building, and intellectual risk.  The rubric is on the syllabus.  You will write a short **self-assessment** at both points (see below), so your own account of your growth is part of the grade.
+The rest of the In-Class Participation grade, including the daily credit for contributing meaningfully and the rubric for quality of engagement, is described in [the syllabus]({{ site.baseurl }}/syllabus#participation), so please read it there instead of relying on a summary here.  I define a meaningful contribution broadly on purpose: offering an idea or a question, building on a classmate, bringing in your pre-class writing, taking a discussion role, or contributing in whatever channel we are using that day.
 
 Participation is a practice you get better at over the semester, and that is how I grade it.  If the room is hard for you, the routine and exercises below are a way in, and my office hours are always open so we can make a plan together.  Please don't wait until it has become a problem.
 
@@ -75,14 +74,14 @@ If the spoken room is consistently hard for you, please talk to me early.  I'd m
 
 ## Self-Assessment (Midterm and End of Term)
 
-At midterm and again at the end of the semester, please write a short self-assessment (half a page is plenty) and bring it to a quick conversation with me.  Address:
+At midterm and again at the end of the semester, please write a short self-assessment (half a page is plenty).  Bring the midterm one to a quick conversation with me, so we can adjust while there is still time.  Submit the end-of-semester one through Canvas; that is the one that earns this page's 10 points.  Address:
 
 1.  **Preparation:** How reliably have you been arriving with anchor passages and a question?  What is your evidence?
 2.  **Contribution and listening:** Name one discussion you moved forward, and one classmate whose thinking changed yours.
 3.  **Risk:** Name one moment you took an intellectual risk, whether that was a position you were unsure of or a mind you changed in public.
 4.  **A goal:** One concrete thing you will do differently in the second half of the term (or, at the end, one thing you will carry into your spring CIE section).
 
-Your own account of your growth is part of this grade.  It's also the surest way to avoid surprises: if your sense of your participation and mine don't match, this is where we find that out and fix it.
+Your own account of your growth is what earns this page's points.  It's also the surest way to avoid surprises: if your sense of your participation and mine don't match, this is where we find that out and fix it.
 
 ## See also
 

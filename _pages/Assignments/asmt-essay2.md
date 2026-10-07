@@ -9,8 +9,8 @@ info:
   points: 100
   purpose: "To bring texts from different traditions and centuries into real conversation about what we owe the people, faiths, and institutions that shape us."
   tilt:
-    task: "Write a 1200-1500 word MLA essay advancing an arguable thesis that engages at least two of Sappho, the Islamic mystic poets, Euthyphro, and Coates, built through the draft-and-revision process."
-    criteria: "I assess your thesis, how you develop the argument, how you synthesize at least two texts, your organization, and your citations.  The revision itself carries real weight; the rubric below has the full breakdown."
+    task: "Write a 1200-1500 word MLA essay advancing an arguable thesis that centers on Coates' Between the World and Me and brings it into conversation with at least one of Sappho, the Islamic mystic poets, or Euthyphro, built through the draft-and-revision process."
+    criteria: "I assess your thesis, how you develop the argument, how you bring Coates into conversation with your second text, your organization, and your citations.  The revision itself carries real weight; the rubric below has the full breakdown."
   submission: "Please submit a word processed or PDF document through Canvas by the due date on the syllabus."
   goals:
     - To formulate a clear, arguable thesis statement about questions of justice, obligation, and community
@@ -33,10 +33,10 @@ info:
       proficient: "The essay steelmans the strongest objection, stating it well enough that someone who holds it would say yes, that is what I think, and then either answers it or concedes precisely what has to be conceded and shows why the thesis survives anyway.  The concession leaves the argument stronger, not more apologetic."
     - weight: 15
       description: "Evidence That Survives the Objection"
-      preemerging: "Little or no textual evidence, or quotations that do not bear on the claim they follow."
+      preemerging: "Little or no textual evidence from Coates, or quotations that do not bear on the claim they follow."
       beginning: "Evidence is present, but you selected it only from passages that agree with you.  The passages that complicate your claim are nowhere in the essay."
       progressing: "Evidence is well chosen and analyzed, and the essay engages at least one passage that resists its own reading. The warrant is usually explicit."
-      proficient: "The essay chooses evidence that would still count for a skeptical reader, engages the passages that cut against it instead of avoiding them, and says in each case why the passage supports the claim.  Quotations are trimmed to the words doing the work, and the analysis does work the quotation cannot do alone."
+      proficient: "The essay chooses evidence from Coates, and from the text it pairs with him, that would still count for a skeptical reader, engages the passages that cut against it instead of avoiding them, and says in each case why the passage supports the claim.  Quotations are trimmed to the words doing the work, and the analysis does work the quotation cannot do alone."
     - weight: 10
       description: "Structure and Movement"
       preemerging: "Paragraphs appear in no discernible order; the counterargument, if present, is bolted on at the end."
@@ -70,15 +70,15 @@ tags:
 
 ---
 
-In this second essay of 1200 to 1500 words, please construct an argument that brings at least two of our recent texts into conversation.  You have Sappho, the Islamic mystic poets, Plato's *Euthyphro*, and Coates' *Between the World and Me* to work with.  The essay takes up the second core question of the course, how should we live together, by asking what we owe the people, traditions, and institutions that shape us.
+In this second essay of 1200 to 1500 words, please construct an argument about Coates' *Between the World and Me* that brings it into conversation with at least one of our other recent texts: Sappho, the Islamic mystic poets, or Plato's *Euthyphro*.  Coates is required, and he is the center of the essay; the second text is there to press on him, sharpen him, or complicate him.  The essay takes up the second core question of the course, how should we live together, by asking what we owe the people, traditions, and institutions that shape us.
 
 ## Prompt
 
-Choose **one** of the following options.  Whichever option you choose, your essay must advance a specific, arguable thesis and support it with carefully selected quotations from the texts, cited in MLA format.
+Choose **one** of the following options.  Whichever option you choose, your essay must engage *Between the World and Me* closely, advance a specific, arguable thesis and support it with carefully selected quotations from the texts, cited in MLA format.
 
 1.  Euthyphro confidently prosecutes his own father in the name of piety, while Coates writes to his son about a Dream his country refuses to question.  Construct an argument about when loyalty to inherited frameworks (family, faith, nation, or culture) should yield to questioning, engaging both texts.  What does Socratic questioning look like when the stakes are as embodied as Coates insists they are?
 
-2.  Sappho and the Islamic mystic poets write longing in the language of the body, and Coates writes fear and love through the body as well.  Construct an argument about how embodiment shapes what we owe one another, engaging at least two of these texts.  Does taking the body seriously change what justice or care requires?
+2.  Sappho and the Islamic mystic poets write longing in the language of the body, and Coates writes fear and love through the body as well.  Construct an argument about how embodiment shapes what we owe one another, engaging Coates and at least one of the poets.  Does taking the body seriously change what justice or care requires?
 
 3.  Apply the Socratic method of *Euthyphro* to a value at the center of *Between the World and Me*, such as the Dream, safety, or hope.  Construct an argument about what that value turns out to mean when subjected to the kind of definitional pressure Socrates applies, and whether it survives the examination.
 
@@ -86,13 +86,13 @@ Choose **one** of the following options.  Whichever option you choose, your essa
 
 You will build this essay in three stages, and those stages together make up the 100 points.  The thesis statement, quote list, and rough outline are worth 10 points, the complete first draft is worth 30 points, and the revised final draft is worth 60 points.  You must meet **in person** with our Writing Fellow between the first and final drafts, and your final draft has to respond substantively to that conversation.  Cosmetic edits don't count as revision.  That meeting carries **10 of the 100 points, all or nothing**, so meeting without revising earns zero on that row, and so does revising without meeting.  Please name the change the conference produced in your revision memo.  Book your conference early, because the whole section shares one Writing Fellow.
 
-1.  **Thesis Statement, Quote List, and Rough Outline.**  A one to two sentence working thesis, a list of four to six quotations (with page numbers) drawn from at least two texts, and a paragraph-level outline.  The Quote-and-Point Sheet below is a place to start it.
+1.  **Thesis Statement, Quote List, and Rough Outline.**  A one to two sentence working thesis, a list of four to six quotations (with page numbers) drawn from Coates and at least one other text, and a paragraph-level outline.  The Quote-and-Point Sheet below is a place to start it.
 2.  **First Draft.**  A complete draft of the full 1200 to 1500 words, and not a partial sketch.
 3.  **Final Draft.**  The revised essay, accompanied by a brief (one paragraph) revision memo describing what you changed and why.
 
 ### Starting the Quote List: A Quote-and-Point Sheet
 
-This sheet starts the quote list above.  Choose three quotations: two that could support a claim, and one that pushes back on it.  For each one, write the page, the exact words you will analyze, one sentence of analysis (why *these* words and not others), and one sentence naming the point it could support.  In the terms of a MEAL paragraph (Main idea, Evidence, Analysis, Link), those last two sentences are the Analysis and the Main idea, so every row here is the start of a paragraph.
+This sheet starts the quote list above.  Choose three quotations: two that could support a claim, and one that pushes back on it.  At least one of the three should come from Coates.  For each one, write the page, the exact words you will analyze, one sentence of analysis (why *these* words and not others), and one sentence naming the point it could support.  In the terms of a MEAL paragraph (Main idea, Evidence, Analysis, Link), those last two sentences are the Analysis and the Main idea, so every row here is the start of a paragraph.
 
 Essay 2 rewards how you handle the passages that disagree with you, which is why the third quotation is not optional.  Then draft a provisional thesis.  It is supposed to be wrong; that is why it is provisional.  You may fill this in on paper, in a document, or by dictation.
 
@@ -100,7 +100,7 @@ Essay 2 rewards how you handle the passages that disagree with you, which is why
 QUOTE-AND-POINT SHEET (Essay 2 brainstorm)
 Option I lean toward (1 / 2 / 3): ___   Second text I'd pair with Coates: ___________
 
-QUOTATION 1 (supports)    p. ___   Words I will analyze: "____________"
+QUOTATION 1 (supports, from Coates)    p. ___   Words I will analyze: "____________"
   A (analysis): These words matter because ________________________.
   M (the point it could support): This could support the claim that ________.
 
@@ -116,11 +116,13 @@ PROVISIONAL THESIS (Topic -> Problem -> Purpose -> Claim)
   in order to show my reader ______ (purpose); therefore I claim: ______.
 
 LITMUS: Could this thesis have been written without reading the texts?  yes / no
+        Is Coates at the center of it, with the second text in conversation
+        with him?  yes / no
 ```
 
 #### Citing the Second Text
 
-Essay 2 asks for at least two of Sappho, the Islamic mystic poets, *Euthyphro*, and Coates.  Cite *Euthyphro* by Stephanus number (the standard section numbers printed in the margins of most editions of Plato), Sappho by the poem number in the Barnard translation, and the mystic poems by title.  Coates is cited by page number in the edition the course uses.
+Essay 2 asks for Coates and at least one of Sappho, the Islamic mystic poets, and *Euthyphro*.  Cite *Euthyphro* by Stephanus number (the standard section numbers printed in the margins of most editions of Plato), Sappho by the poem number in the Barnard translation, and the mystic poems by title.  Coates is cited by page number in the edition the course uses.
 
 #### Two Questions to Ask of Every Row
 

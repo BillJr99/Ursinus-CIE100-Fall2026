@@ -7,7 +7,7 @@ title: "CIE100: Common Intellectual Experience - Draft Reflection: Four A's on Y
 info:
   coursenum: CIE100
   points: 10
-  submission: "Please submit a word processed or PDF document through Canvas within a few days of your Writing Fellow conference.  The assignment for each essay cycle gives the exact deadline."
+  submission: "Please submit a word processed or PDF document through Canvas after your Writing Fellow conference and by the due date on the syllabus."
   submission_types: written
   goals:
     - To reread your own first draft as a text worth studying
